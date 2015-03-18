@@ -1,0 +1,9 @@
+Building ZirkCoin
+
+See doc/readme-qt.rst for instructions on building ZirkCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ZirkCoin.
+
+See doc/build-*.txt for instructions on building zirkcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ZirkCoin.
