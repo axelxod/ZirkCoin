@@ -1,7 +1,7 @@
 ZirkCoin
 
-Copyright (c) 2014 ZirkCoin Developers
-Copyright (c) 2014 BlackCoin Developers
+Copyright (c) 2015 ZirkCoin Developers
+Copyright (c) 2014 ShadowCoin Developers
 Copyright (c) 2013 NovaCoin Developers
 Copyright (c) 2011-2013 PPCoin Developers
 Distributed under the MIT/X11 software license, see the accompanying
